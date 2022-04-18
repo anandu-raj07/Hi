@@ -1,0 +1,292 @@
+11:45:58.516 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:45:58.573 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:46:03.248 [main] INFO  GoPadelTest.GoPadelTest - Calendar page is displayed.
+11:46:03.248 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:49:15.494 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:49:15.533 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:49:18.610 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:49:18.610 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:00:55.190 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:00:55.249 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:00:58.444 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:00:58.444 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:08:30.192 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:08:30.291 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:08:33.455 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:08:33.455 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:13:19.457 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:13:19.533 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:13:22.641 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:13:22.641 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:13:51.259 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:13:51.332 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:13:54.377 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:13:54.377 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:21:10.071 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:21:10.143 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:21:13.684 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:21:13.684 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+10:30:45.649 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+10:30:45.732 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+10:30:51.021 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+10:30:51.021 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:21:34.782 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:21:34.819 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:21:38.131 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:21:38.131 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:34:43.810 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:34:43.848 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:34:47.586 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:34:47.586 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:07:01.818 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:07:01.885 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:07:04.835 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:07:04.835 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:07:36.647 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:07:36.710 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:07:39.716 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:07:39.716 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:27:20.641 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:27:20.686 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:27:23.676 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:27:23.676 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:29:19.452 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:29:19.498 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:29:22.615 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:29:22.615 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:30:43.770 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:30:43.799 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:30:47.339 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:30:47.339 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:32:40.791 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:32:40.871 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:32:44.529 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:32:44.529 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:36:51.862 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:36:51.941 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:36:54.940 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:36:54.940 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:38:59.365 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:38:59.394 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:39:02.328 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:39:02.329 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:47:28.469 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:47:28.551 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:47:31.762 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:47:31.762 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:49:49.010 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:49:49.073 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:49:52.120 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:49:52.121 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:51:53.520 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:51:53.592 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:51:56.565 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:51:56.565 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:55:38.329 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:55:38.380 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:55:41.501 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:55:41.501 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:02:16.760 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:02:16.826 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:02:19.807 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:02:19.807 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:06:50.579 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:06:50.629 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:06:53.639 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:06:53.639 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:11:15.448 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:11:15.553 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:11:18.649 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:11:18.649 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:12:50.842 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:12:50.888 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:12:53.784 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:12:53.784 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:15:13.038 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:15:13.099 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:15:16.042 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:15:16.042 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:18:41.097 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:18:41.136 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:18:44.271 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:18:44.272 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:19:05.678 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:19:05.732 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:19:08.787 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:19:08.788 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:32:22.746 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:32:22.835 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:32:27.816 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:32:27.816 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:34:09.467 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:34:09.571 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:34:12.704 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:34:12.704 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+16:06:51.624 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+16:06:51.661 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+16:06:54.609 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+16:06:54.610 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+16:08:28.985 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+16:08:29.048 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+16:08:32.053 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+16:08:32.053 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+16:09:07.501 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+16:09:07.561 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+16:09:10.823 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+16:09:10.823 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+16:12:29.120 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+16:12:29.218 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+16:12:32.980 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+16:12:32.980 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+16:13:28.208 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+16:13:28.256 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+16:13:31.242 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+16:13:31.242 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+16:14:16.780 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+16:14:16.830 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+16:14:19.729 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+16:14:19.729 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+16:20:03.675 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+16:20:03.718 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+16:20:06.842 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+16:20:06.842 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+16:22:35.942 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+16:22:35.996 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+16:22:38.956 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+16:22:38.956 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+16:37:48.475 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+16:37:48.524 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+16:37:51.519 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+16:37:51.519 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+16:42:37.582 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+16:42:37.609 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+16:42:41.335 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+16:42:41.335 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+17:04:34.266 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+17:04:34.316 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+17:04:37.057 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+17:04:37.057 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+17:06:44.752 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+17:06:44.807 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+17:06:47.629 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+17:06:47.630 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+09:26:10.173 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+09:26:10.204 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:26:17.947 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+09:26:17.948 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+09:26:56.789 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+09:26:56.808 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:26:59.564 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+09:26:59.564 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+09:27:57.258 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+09:27:57.298 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:28:00.169 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+09:28:00.169 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+09:37:08.336 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+09:37:08.374 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:37:12.271 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+09:37:12.271 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:13:02.280 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:13:02.348 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:13:05.495 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:13:05.496 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:17:07.016 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:17:07.044 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:17:09.978 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:17:09.978 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:19:26.326 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:19:26.375 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:19:29.231 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:19:29.231 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:23:26.442 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:23:26.489 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:23:29.469 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:23:29.469 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:25:04.567 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:25:04.620 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:25:07.528 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:25:07.529 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:25:57.219 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:25:57.269 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:26:00.075 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:26:00.075 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:32:47.765 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:32:47.817 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:32:50.753 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:32:50.754 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:34:31.492 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:34:31.521 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:34:34.476 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:34:34.477 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:35:51.175 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:35:51.236 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:35:54.236 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:35:54.237 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:44:27.567 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:44:27.635 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:44:30.541 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:44:30.543 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:46:04.625 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:46:04.686 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:46:07.778 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:46:07.779 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:53:45.864 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:53:45.905 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:53:48.912 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:53:48.912 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+11:57:34.815 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:57:34.867 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:57:37.749 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+11:57:37.749 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:10:05.476 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:10:05.524 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:10:08.436 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:10:08.436 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:30:57.006 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:30:57.068 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:30:59.856 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:30:59.857 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:33:32.816 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:33:32.861 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:33:35.753 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:33:35.753 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+12:34:22.722 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:34:22.772 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:34:25.665 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+12:34:25.665 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+13:56:36.864 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+13:56:36.911 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+13:56:39.996 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+13:56:39.997 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+13:58:44.408 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+13:58:44.434 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+13:58:47.330 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+13:58:47.330 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+14:02:23.752 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+14:02:23.787 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+14:02:26.530 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+14:02:26.531 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+14:03:42.979 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+14:03:43.025 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+14:03:45.965 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+14:03:45.965 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+14:04:38.055 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+14:04:38.098 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+14:04:41.200 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+14:04:41.200 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+14:05:57.762 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+14:05:57.804 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+14:06:01.690 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+14:06:01.690 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+14:07:11.723 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+14:07:11.759 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+14:07:14.685 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+14:07:14.685 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+14:10:07.309 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+14:10:07.345 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+14:10:10.101 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+14:10:10.102 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
+14:11:36.288 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+14:11:36.337 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+14:11:39.205 [main] INFO  GoPadelTest.GoPadelTest - Booking Calendar page is displayed.
+14:11:39.205 [main] INFO  GoPadelTest.GoPadelTest - expectedUrl-https://gpv2.cadvil.com/bookings and actualUrl - https://gpv2.cadvil.com/bookings
