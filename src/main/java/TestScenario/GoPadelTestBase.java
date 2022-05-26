@@ -42,6 +42,7 @@ public class GoPadelTestBase {
 			WebDriverManager.chromedriver().setup();
 			ChromeOptions options = new ChromeOptions();
 			options.addArguments("--disable-notifications");
+			options.addArguments("--incognito");
 			driver = new ChromeDriver(options);             
          }
 		 else if (BROWSER.equals("IE")) {
@@ -70,6 +71,6 @@ public class GoPadelTestBase {
  
     @AfterSuite
     public void suiteTearDown() {
-    	//driver.quit();
+    	driver.quit();
     }
 }

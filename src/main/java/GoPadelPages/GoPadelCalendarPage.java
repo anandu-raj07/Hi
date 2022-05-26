@@ -2,11 +2,14 @@ package GoPadelPages;
 
 import java.util.List;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 public class GoPadelCalendarPage {
@@ -28,16 +31,14 @@ public class GoPadelCalendarPage {
 	@FindBy(xpath = "//*[@id=\"calendar1\"]/div[2]/div[1]/table/thead/tr/th/div/div/table/thead/tr")
 	WebElement courttype;
 
-	@FindBy(xpath = "//*[@id=\"calendar1\"]/div[2]/div[1]/table/tbody/tr[1]/td/div/div/div/table/tbody/tr/td[2]")
+	@FindBy(xpath = "(//td[@data-resource-id='157'])[1]")
 	WebElement outdoorbooking;
-
+	
 	@FindBy(id = "booking-context-menu")
 	WebElement bookingcontextmenu;
 
 	@FindBy(xpath = "(//*[text()='Add a Booking'])[1]")
 	WebElement addbooking;
-
-
 
 	public GoPadelCalendarPage(WebDriver driver) {
 
@@ -73,7 +74,7 @@ public class GoPadelCalendarPage {
 			System.out.println(" > " + padelname.getText());
 		}
 		selectpadel.click();
-		padleselect.selectByIndex(3);
+		padleselect.selectByVisibleText("Anandu Padel");
 
 	}
 
@@ -88,14 +89,37 @@ public class GoPadelCalendarPage {
 			System.out.println(" > " + branchname.getText());
 		}
 		selectbranch.click();
-		branchselect.selectByIndex(1);
+		branchselect.selectByVisibleText("Anandu branch");
 	}
 
 	public void buttongroup() {
+		
+		WebDriverWait wait = new WebDriverWait(driver, 20);
 
 		Assert.assertEquals(true, buttongroup.isDisplayed());
 		System.out.println("------------------------------------------------");
 		System.out.println(" > Button group is displayed with " + buttongroup.getText());
+		
+		WebElement date = wait
+				.until(ExpectedConditions.visibilityOfElementLocated(By.id("btnTodaysDate")));
+		WebElement previousday = wait
+				.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[text()='Prev']")));
+		WebElement nextday = wait
+				.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[text()='Next']")));
+				
+		System.out.println("------------------------------------------------");
+		System.out.println(" > Current day " + date.getText());
+		
+		previousday.click();
+		System.out.println("------------------------------------------------");
+		System.out.println(" > Calendar date is changed to previous day " + date.getText());
+		
+		nextday.click();
+		nextday.click();
+		System.out.println("------------------------------------------------");
+		System.out.println(" > Calendar date is changed to next day " + date.getText());
+		
+		previousday.click();
 
 	}
 
@@ -111,6 +135,7 @@ public class GoPadelCalendarPage {
 
 		Assert.assertEquals(true, outdoorbooking.isDisplayed());
 		outdoorbooking.click();
+
 		System.out.println("------------------------------------------------");
 		System.out.println(" > Outdoor booking is displayed with " + "\n" + bookingcontextmenu.getText());
 		Assert.assertEquals(true, addbooking.isDisplayed());
@@ -119,7 +144,5 @@ public class GoPadelCalendarPage {
 		addbooking.click();
 
 	}
-
-
 
 }

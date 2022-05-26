@@ -7,7 +7,11 @@
         <methods>
           <include name="suiteTearDown"/>
           <include name="suiteSetup"/>
+          <include name="blockTimePageTest"/>
+          <include name="recurringBookingTest"/>
           <include name="trainerBookingTest"/>
+          <include name="manageBookPageTest"/>
+          <include name="ladiesTimePageTest"/>
         </methods>
       </class> <!-- GoPadelTest.GoPadelTest -->
     </classes>

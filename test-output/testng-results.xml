@@ -1,29 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-18T14:11:36 IST" name="Default suite" finished-at="2022-04-18T14:11:51 IST" duration-ms="15641">
+  <suite started-at="2022-05-26T15:55:24 IST" name="Default suite" finished-at="2022-05-26T15:56:05 IST" duration-ms="41212">
     <groups>
     </groups>
-    <test started-at="2022-04-18T14:11:36 IST" name="Default test" finished-at="2022-04-18T14:11:51 IST" duration-ms="15641">
+    <test started-at="2022-05-26T15:55:24 IST" name="Default test" finished-at="2022-05-26T15:56:05 IST" duration-ms="41212">
       <class name="GoPadelTest.GoPadelTest">
-        <test-method is-config="true" signature="suiteSetup()[pri:0, instance:GoPadelTest.GoPadelTest@55342f40]" started-at="2022-04-18T14:11:29 IST" name="suiteSetup" finished-at="2022-04-18T14:11:36 IST" duration-ms="6662" status="PASS">
+        <test-method is-config="true" signature="suiteSetup()[pri:0, instance:GoPadelTest.GoPadelTest@1b0a7baf]" started-at="2022-05-26T15:55:17 IST" name="suiteSetup" finished-at="2022-05-26T15:55:24 IST" duration-ms="6072" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- suiteSetup -->
-        <test-method signature="bookingCalenderTest()[pri:0, instance:GoPadelTest.GoPadelTest@55342f40]" started-at="2022-04-18T14:11:36 IST" name="bookingCalenderTest" finished-at="2022-04-18T14:11:43 IST" duration-ms="6919" status="PASS">
+        <test-method signature="bookingCalenderTest()[pri:0, instance:GoPadelTest.GoPadelTest@1b0a7baf]" started-at="2022-05-26T15:55:24 IST" name="bookingCalenderTest" finished-at="2022-05-26T15:55:30 IST" duration-ms="6651" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bookingCalenderTest -->
-        <test-method signature="bookingPopupTest()[pri:1, instance:GoPadelTest.GoPadelTest@55342f40]" started-at="2022-04-18T14:11:43 IST" name="bookingPopupTest" finished-at="2022-04-18T14:11:48 IST" duration-ms="5420" status="PASS">
+        <test-method signature="bookingPopupTest()[pri:1, instance:GoPadelTest.GoPadelTest@1b0a7baf]" started-at="2022-05-26T15:55:30 IST" name="bookingPopupTest" finished-at="2022-05-26T15:55:41 IST" duration-ms="10570" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bookingPopupTest -->
-        <test-method signature="trainerBookingTest()[pri:2, instance:GoPadelTest.GoPadelTest@55342f40]" started-at="2022-04-18T14:11:48 IST" name="trainerBookingTest" finished-at="2022-04-18T14:11:51 IST" duration-ms="3250" status="PASS">
+        <test-method signature="trainerBookingTest()[pri:2, instance:GoPadelTest.GoPadelTest@1b0a7baf]" started-at="2022-05-26T15:55:41 IST" name="trainerBookingTest" finished-at="2022-05-26T15:55:44 IST" duration-ms="2567" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- trainerBookingTest -->
-        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:GoPadelTest.GoPadelTest@55342f40]" started-at="2022-04-18T14:11:51 IST" name="suiteTearDown" finished-at="2022-04-18T14:11:51 IST" duration-ms="1" status="PASS">
+        <test-method signature="recurringBookingTest()[pri:3, instance:GoPadelTest.GoPadelTest@1b0a7baf]" started-at="2022-05-26T15:55:44 IST" name="recurringBookingTest" finished-at="2022-05-26T15:55:46 IST" duration-ms="2326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recurringBookingTest -->
+        <test-method signature="manageBookPageTest()[pri:4, instance:GoPadelTest.GoPadelTest@1b0a7baf]" started-at="2022-05-26T15:55:46 IST" name="manageBookPageTest" finished-at="2022-05-26T15:55:52 IST" duration-ms="6096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageBookPageTest -->
+        <test-method signature="blockTimePageTest()[pri:5, instance:GoPadelTest.GoPadelTest@1b0a7baf]" started-at="2022-05-26T15:55:52 IST" name="blockTimePageTest" finished-at="2022-05-26T15:55:59 IST" duration-ms="6507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blockTimePageTest -->
+        <test-method signature="ladiesTimePageTest()[pri:6, instance:GoPadelTest.GoPadelTest@1b0a7baf]" started-at="2022-05-26T15:55:59 IST" name="ladiesTimePageTest" finished-at="2022-05-26T15:56:05 IST" duration-ms="6100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ladiesTimePageTest -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:GoPadelTest.GoPadelTest@1b0a7baf]" started-at="2022-05-26T15:56:05 IST" name="suiteTearDown" finished-at="2022-05-26T15:56:05 IST" duration-ms="407" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- suiteTearDown -->

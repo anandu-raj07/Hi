@@ -7,9 +7,13 @@ import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import GoPadelPages.GoPadelBlockTimingsPage;
 import GoPadelPages.GoPadelBookingPopupPage;
 import GoPadelPages.GoPadelCalendarPage;
+import GoPadelPages.GoPadelLadiesTimingsPage;
 import GoPadelPages.GoPadelLoginPage;
+import GoPadelPages.GoPadelManageBookingPage;
+import GoPadelPages.GoPadelRecurringBookingPopupPage;
 import GoPadelPages.GoPadelTrainerBookingPage;
 import TestScenario.GoPadelTestBase;
 
@@ -19,6 +23,10 @@ public class GoPadelTest extends GoPadelTestBase {
 	GoPadelCalendarPage calendarPage;
 	GoPadelBookingPopupPage bookingPage;
 	GoPadelTrainerBookingPage trainerBookPopup;
+	GoPadelManageBookingPage managebookPage;
+	GoPadelRecurringBookingPopupPage recurringPage;
+	GoPadelBlockTimingsPage blockTimePage;
+	GoPadelLadiesTimingsPage ladiesTimePage;
 
 	// Log4j configuration
 	private static final Logger log = LogManager.getLogger(GoPadelTest.class);
@@ -32,7 +40,7 @@ public class GoPadelTest extends GoPadelTestBase {
 
 		GoPadelCalendarPage calendarPage = loginPage.login("admin", "Admin@12345");
 
-		String ExpectedUrl = "https://gpv2.cadvil.com/bookings";
+		String ExpectedUrl = "https://staging.gopadel.ae/bookings";
 		String Actualurl = calendarPage.getUrl();
 
 		log.info("Booking Calendar page is displayed.");
@@ -51,15 +59,16 @@ public class GoPadelTest extends GoPadelTestBase {
 	}
 
 	@Test(priority = 1)
-	public void bookingPopupTest() {
+	public void bookingPopupTest() throws InterruptedException {
 
 		bookingPage = new GoPadelBookingPopupPage(driver);
 
 		bookingPage.bookingPopup();
+//		bookingPage.courtBooking();
 		bookingPage.addABooking();
 		bookingPage.removeAuser();
 		bookingPage.couponCodevalidation();
-		bookingPage.clientDetailsblankValidation();
+		bookingPage.clientDetailsBlankValidation();
 
 	}
 
@@ -70,6 +79,46 @@ public class GoPadelTest extends GoPadelTestBase {
 
 		trainerBookPopup.trainerBooking();
 		trainerBookPopup.bookTrainer();
+	}
+
+	@Test(priority = 3)
+	public void recurringBookingTest() {
+
+		recurringPage = new GoPadelRecurringBookingPopupPage(driver);
+
+		recurringPage.recurringPage();
+		recurringPage.recurringBookingPopup();
+	}
+
+	@Test(priority = 4)
+	public void manageBookPageTest() {
+
+		managebookPage = new GoPadelManageBookingPage(driver);
+
+		managebookPage.navigateToManagebookPage();
+		managebookPage.manageBookDisplay();
+		managebookPage.manageBookCalander();
+		managebookPage.manageBookBookings();
+	}
+
+	@Test(priority = 5)
+	public void blockTimePageTest() throws InterruptedException {
+
+		blockTimePage = new GoPadelBlockTimingsPage(driver);
+
+		blockTimePage.navigateToBlockTime();
+		blockTimePage.viewBlockTime();
+		blockTimePage.addAblockTime();
+	}
+	
+	@Test(priority = 6)
+	public void ladiesTimePageTest() throws InterruptedException {
+
+		ladiesTimePage = new GoPadelLadiesTimingsPage(driver);
+
+		ladiesTimePage.navigateToLadiesTime();
+		ladiesTimePage.viewBlockTime();
+		ladiesTimePage.addAblockTime();
 	}
 
 }
